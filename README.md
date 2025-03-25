@@ -54,8 +54,8 @@ tcp   LISTEN 0 0 0.0.0.0:22    0.0.0.0:*   LISTEN   1323/sshd
 ### **1️⃣ Download the Script**
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/priv-esc-enum-script.git
-cd priv-esc-enum-script
+git clone https://github.com/ahadiii786/Linux-Privilege-Escalation-Enumeration.git
+cd Linux-Privilege-Escalation-Enumeration
 ```
 or manually download `enum.sh` from the repository.
 
